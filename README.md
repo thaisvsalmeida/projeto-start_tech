@@ -11,17 +11,17 @@ Na página web desenvolvida, foram utilizados HTML, CSS, JavaScript e Bootstrap,
 
 <p><center>Parte 1/3:</center></p>
 
-![image](./img/site1.jpg)
+![image](./img/site1.JPG)
 
 
 
 <p><center>Parte 2/3:</center></p>
 
-![image](./img/site2.jpg)
+![image](./img/site2.JPG)
 
 
 
 <p><center>Parte 3/3:</center></p>
 
-![image](./img/site3.jpg)
+![image](./img/site3.JPG)
 
