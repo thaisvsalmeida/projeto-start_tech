@@ -9,19 +9,19 @@ Na página web desenvolvida, foram utilizados HTML, CSS, JavaScript e Bootstrap,
 
 <h4>Aplicação:</h4>
 
-<p><center>Parte 1/3:</center></p>
+<p>Parte 1/3:</p>
 
 ![image](./img/site1.JPG)
 
 
 
-<p><center>Parte 2/3:</center></p>
+<p>Parte 2/3:</p>
 
 ![image](./img/site2.JPG)
 
 
 
-<p><center>Parte 3/3:</center></p>
+<p>Parte 3/3:</p>
 
 ![image](./img/site3.JPG)
 
