@@ -1,0 +1,109 @@
+h2 {
+    background: #ffc72c;
+    padding: 20px;
+}
+
+.title {
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 40px;
+}
+
+::-webkit-scrollbar {
+    width: 16px;
+}
+
+::-webkit-scrollbar-track {
+    background: #000;
+  }
+
+::-webkit-scrollbar-thumb {
+    background: #ffc72c;
+    border-radius: 10px;
+    border:1px solid #000;
+}
+
+body {
+    margin: 0;
+}
+
+.ambev_logo {
+    width: 220px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.header {
+    background-color: #ffc72c;
+    padding-left: 120px;
+    display: flex;
+}
+
+.header nav a {
+    color: #2d2a26;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 10px;
+    font-size: 17px;
+}
+
+.header nav a:hover {
+    color: #2d2a26;
+    text-decoration:none;
+}
+
+.social-link img {
+    width: 25px;
+    margin-right: -15px;
+}
+
+.great_place_logo {
+    width: 120px;
+    margin-left: 20px;
+    margin-bottom: -85px;
+}
+
+.introducao p {
+    text-align: center;
+    padding: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
+
+.introducao img {
+    width: 500px;
+    border-radius: 8%;
+}
+
+.cadastro {
+    padding-top: 30px;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#table {
+    width: 55%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#btn {
+    font-size: 18px;
+    cursor: pointer;
+    transition: .3s ease all;
+}
+
+#btn:hover {
+    background-color: white;
+    color: black;
+}
+
+.span{
+    color:red;
+    font-size: 16px;
+}
+
+@media (max-width: 1230px) {
+    nav img {display: none;}
+    nav a {display: none;}
+}
